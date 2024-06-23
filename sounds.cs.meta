@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 0bc5c5f6a53c32248a69c82944596c09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveSound: {instanceID: 0}
+  - speedHitSound: {instanceID: 0}
+  - jumpHitSound: {instanceID: 0}
+  - coinHitSound: {instanceID: 0}
+  - finishHitSound: {instanceID: 0}
+  - coHitSound: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - speedHitAudioSource: {instanceID: 0}
+  - jumpHitAudioSource: {instanceID: 0}
+  - coinHitAudioSource: {instanceID: 0}
+  - finishHitAudioSource: {instanceID: 0}
+  - coHitAudioSource: {instanceID: 0}
+  - newJumpSound: {instanceID: 0}
+  - newJumpAudioSource: {instanceID: 0}
+  - background: {fileID: 8300000, guid: 77c6af62c31d7b644ac4d935690b0b6d, type: 3}
+  - backgroundSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
